@@ -37,7 +37,7 @@ function Toss(){
 
 
 
-Toss()
+Toss
 
 if [ $H -eq 21 ]
 then

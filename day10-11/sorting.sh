@@ -44,7 +44,7 @@ done
 #show in accending order
 
 for((i=4;i>0;i--))
-then
+do
 	echo $srt[$i]
 done
 
@@ -52,7 +52,7 @@ done
 #Show in descending order
 
 for((i=0;i<4;i++))
-then
+do
 	echo $str[$i]
 done
 
